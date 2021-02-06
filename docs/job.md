@@ -1,0 +1,5 @@
+# Stelle
+
+## Übersicht
+
+`Administrator erforderlich`

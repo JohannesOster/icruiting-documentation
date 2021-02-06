@@ -3,6 +3,5 @@
 - Allgemein
 
   - [Startseite]()
-
-- Accounts
-  - [Accounts](accounts/index.md)
+  - [Accounts](accounts.md)
+  - [Stelle](job.md)
