@@ -3,3 +3,6 @@
 - Allgemein
 
   - [Startseite]()
+
+- Accounts
+  - [Accounts](accounts/index.md)
