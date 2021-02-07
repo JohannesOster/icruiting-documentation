@@ -5,3 +5,5 @@
   - [Startseite]()
   - [Accounts](accounts.md)
   - [Stelle](job.md)
+
+- [Wörterbuch](dictionary.md)
