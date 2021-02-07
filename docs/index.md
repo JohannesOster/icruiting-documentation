@@ -10,9 +10,9 @@
 
 icruiting bildet einen 2-stufiges Auswahlverfahren ab. Ein **Screening** gefolgt von einem **Assessment Center**.
 
-Im _Screening_ geht es darum die eingegangenen Bewerbungsunterlagen zu bewerten und die Kandidat\*innen in einer daraus resultierender Reihung durchzusprechen.
+Im _Screening_ geht es darum die eingegangenen Bewerbungsunterlagen zu bewerten und die Kandidat\*innen in einer daraus resultierender Ranking durchzusprechen.
 
-Im _Assessment Center_ werden Kandidat\*innen in mehreren Übungen bewertet und ebenfalls in einer daraus resultierenden (von den Screening-Ergebnissen unabhängigen) Reihung dargestellt.
+Im _Assessment Center_ werden Kandidat\*innen in mehreren Übungen bewertet und ebenfalls in einer daraus resultierenden (von den Screening-Ergebnissen unabhängigen) Ranking dargestellt.
 
 Für beide Stufen wird für jeden\*jede Kandidat\*in ein Gutachten erstellt. Dieses soll die Bewertungsresultate aufbereiten und eine Basis für die eigentliche Auswahlentscheidung bilden.
 

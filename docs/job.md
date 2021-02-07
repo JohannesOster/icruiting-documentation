@@ -12,7 +12,7 @@ Unter https://icruiting.at/dashboard/jobs können Sie all Ihre Stellen einsehen,
 Klicken Sie auf den Namen einer Stelle um auf die Detailansicht zu gelangen.
 Hier können Sie das dazugehörige Anforderungsprofil einsehen und bearbeiten.
 
-Darunter befinden sich Verlinkungen zur Reihung nach dem Screening (_Screeningranking_) sowie zur Reihung nach dem _Assessment Center_.
+Darunter befinden sich Verlinkungen zur Ranking nach dem Screening (_Screeningranking_) sowie zur Ranking nach dem _Assessment Center_.
 
 Die untern beiden Sektionen bilden Formulare. Einerseits das Bewerbungsformular sowie das Screeningformular andererseits mehrere Formulare die verschiedene Assessment Center Übungen repräsentieren.
 
