@@ -56,6 +56,6 @@ Zum derzeitigen Zeitpunkt können nur Administratoren die gesamte Organisation l
 
 `Administrator erforderlich`
 
-Um Ihren Account zu löschen gehen sie auf https://icruiting.at/account und klicken Sie auf "Account und Tenant unwiderruflich löschen". **Achtung:** Alle Daten, die mit Ihrem Tenant in Verbindung stehen, gehen unwiederruflich verloren! (Auch alle Mitgliederaccounts werden gelöscht)
+Um Ihren Account zu löschen gehen sie auf https://icruiting.at/account und klicken Sie auf "Account und Tenant unwiderruflich löschen". **Achtung:** Alle Daten, die mit Ihrem Tenant in Verbindung stehen, gehen unwiderruflich verloren! (Auch alle Mitgliederaccounts werden gelöscht)
 
 Sämtliche Subscriptions werden beendet, somit fallen keine Kosten mehr an.
