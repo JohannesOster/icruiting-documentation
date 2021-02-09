@@ -48,7 +48,7 @@ Im folgenden werden wichtige Begriffe erläutert:
 
 **Formularkategorie-Score:** Siehe [Ranking](#ranking)
 
-**Avg-Formularkategorie-Score:** Man betrachte den _Formularkategorie-Score_ jedes\*jeder einzelnen Kandidat\*in. Der Durschnitt von all diesen wird _Avg-Formularkategorie-Score_ genannt. (="Wie wurden Kandidat\*innen durchschnittlich in dieser Kategorie bewertet")
+**OverallAvg-Formularkategorie-Score:** Man betrachte den _Formularkategorie-Score_ jedes\*jeder einzelnen Kandidat\*in. Der Durschnitt von all diesen wird _AverallAvg-Formularkategorie-Score_ genannt. (="Wie wurden Kandidat\*innen durchschnittlich in dieser Kategorie bewertet")
 
 **OverallStdDev-Formularkategorie-Score:** Man betrachte den _Formularkategorie-Score_ jedes\*jeder einzelnen Kandidat\*in. Die Standardabweichung von diesem Datensatz wird _StdDev-Formularkategorie-Score_ genannt. (="Wie stark schwanken die Bewertungen in dieser Kategorie")
 
@@ -62,11 +62,11 @@ Im folgenden werden wichtige Begriffe erläutert:
 
 **Formular-Score:** Siehe [Ranking](#ranking)
 
-**Avg-Formular-Score:** Man betrachte ein bestimmtes Formular und berechne den _Formular-Score_ für alle Kanditat\*innen. Der Durchschnitt dieser _Forumlar-Scores_ wird _Average-Formular-Score_. (="Wie wurden Kandidat\*innen durschnittlich mit diesem Formular bewertet.")
-
 **StdDev-Formular-Score:** Man betrachte ein bestimmtes Formular und berechne alle [_Formulareintrags-Scores_](#ranking) für einen\*eine Kanditat\*in. Die Standardabweichung von diesem Datensatz wird _StdDev-Formular-Score_ genannt. (="Wie stark schwanken die Bewertungen in dieser Übung")
 
-**AVGStdDev-Formular-Score:** Man berechne den _StdDev-Formular-Score_ für alle Kanditat\*innen. Der Durchschnitt von diesem Datensatz wird _AVGStdDev-Formular-Score_ genannt. (="Wie stark schwanken durchschnittlich die Bewertungen in dieser Übung.")
+**OverallAvg-Formular-Score:** Man betrachte ein bestimmtes Formular und berechne den _Formular-Score_ für alle Kanditat\*innen. Der Durchschnitt dieser _Forumlar-Scores_ wird _OverallAvg-Formular-Score_. (="Wie wurden Kandidat\*innen durschnittlich mit diesem Formular bewertet.")
+
+**OverallAvgStdDev-Formular-Score:** Man berechne den _StdDev-Formular-Score_ für alle Kanditat\*innen. Der Durchschnitt von diesem Datensatz wird _OverallAvgStdDev-Formular-Score_ genannt. (="Wie stark schwanken durchschnittlich die Bewertungen in dieser Übung.")
 
 **OverallStdDev-Formular-Score:** Man berechne alle _Formular-Scores_ einer Kategorie. Die Standardabweichung von diesem Datensatz wird _OverallStdDev-Formular-Score_ genannt. (="Wie stark schwanken die Bewertungen in dieser Übung insgesamt")
 
@@ -80,11 +80,11 @@ Im folgenden werden wichtige Begriffe erläutert:
 
 **Formularfeld-Score:** Man betrachte die Werte aller _Formulareintragsfelder_ zu einer bestimmten Kandidat\*in sowie zu einem bestimmten Feld. Berechnet man davon den Durchschnitt erhält man den _Formularfeld-Score_. (="Wie wurde dieser\*diese Kanditat\*in bei diesem Feld bewertet")
 
-**Avg-Formularfeld-Score:** Man betracht ein Formularfeld und berechne den _Formularfeld-Score_ für alle Kandidat\*innen. Der Durchscnitt dieser Werte wird _Avg-Formularfeld-Score_ genannt. (="Wie wurden Kanditat\*innen durschnittlich bei diesem Feld bewertet")
-
 **StdDev-Formularfeld-Score:** Man betrachte die Werte aller _Formulareintragsfelder_ zu einer bestimmten Kandidat\*in sowie zu einem bestimmten Feld. Berechnet man davon die Standardabweichung erhält man den _StdDev-Formularfeld-Score_. (="Wie stark schwanken die Bewertungen in dieser Frage für diesen\*diese Kandidat\*in")
 
-**AvgStdDev-Formularfeld-Score:** Man berechne den _StdDev-Formularfeld-Score_ für alle Kanditat\*innen für ein Feld. Der Durchschnitt von diesem Datensatz wird _AVGStdDev-Formularfeld-Score_ genannt. (="Wie stark schwanken durchschnittlich die Bewertungen in dieser Frage")
+**OverallAvg-Formularfeld-Score:** Man betracht ein Formularfeld und berechne den _Formularfeld-Score_ für alle Kandidat\*innen. Der Durchscnitt dieser Werte wird _OverallAvg-Formularfeld-Score_ genannt. (="Wie wurden Kanditat\*innen durschnittlich bei diesem Feld bewertet")
+
+**OverallAvgStdDev-Formularfeld-Score:** Man berechne den _StdDev-Formularfeld-Score_ für alle Kanditat\*innen für ein Feld. Der Durchschnitt von diesem Datensatz wird _OverallAvgStdDev-Formularfeld-Score_ genannt. (="Wie stark schwanken durchschnittlich die Bewertungen in dieser Frage")
 
 **OverallStdDev-Formularfeld-Score:** Man betrachte die Werte aller _Formulareintragsfelder_ zu einem bestimmten Feld. Berechnet man davon die Standardabweichung erhält man den _OverallStdDev-Formularfeld-Score_. (="Wie stark schwanken die Bewertungen in diesem Feld")
 
@@ -98,10 +98,10 @@ Im folgenden werden wichtige Begriffe erläutert:
 
 **Anforderungskriterium-Score:** Man betrachte alle Formularfelder, die auf ein bestimmtes Anforderungskriterium abziehlen und sich auf einen\*eine bestimmeten\*bestimmte Kandidat\*in. Berechnet man nun den Durchschnitt der dazugehörigen _Formulareintragsfeld-Scores_ erhält man den _Anforderungskriterium-Score_. (="Wie wurden ein\*eine Kandidat\*in in diesem Kriterium berwertet")
 
-**Avg-Anforderungskriterium-Score:** Man betrachte ein Anforderungskriterium und berechne sich den _Anforderungskriterium-Score_ für alle für alle Kandidat\*innen. Der Durchschnitt dieser Werte wird
+**OverallAvg-Anforderungskriterium-Score:** Man betrachte ein Anforderungskriterium und berechne sich den _Anforderungskriterium-Score_ für alle für alle Kandidat\*innen. Der Durchschnitt dieser Werte wird
 _Avg-Anforderungskriterium-Score_ geannt. (="Wie wurden Kandidat\*innen durchschnittlich in diesem Kriterium berwertet")
 
-**StdDev-Anforderungskriterium-Score:** Man betrachte ein Anforderungskriterium und berechne sich den _Anforderungskriterium-Score_ für alle für alle Kandidat\*innen. Die Standardabweichung dieser Werte wird _StdDev-Anforderungskriterium-Score_ geannt. (="Wie stark schwanken die Bewertungen in diesem Kriterium")
+**OverallStdDev-Anforderungskriterium-Score:** Man betrachte ein Anforderungskriterium und berechne sich den _Anforderungskriterium-Score_ für alle für alle Kandidat\*innen. Die Standardabweichung dieser Werte wird _StdDev-Anforderungskriterium-Score_ geannt. (="Wie stark schwanken die Bewertungen in diesem Kriterium")
 
 **OverallMax-Anforderungskriterium-Score:** Man betrachte den _Anforderungskriterium-Score_ jedes\*jeder einzelnen Kandidat\*in eines bestimmenten Kriteriums. Der maximal Wert wird _OverallMax-Anforderungskriterium-Score_ genannt. (="Was ist die höchste Bewertung in diesem Kriterium")\
 **OverallMin-Anforderungskriterium-Score:** Man betrachte den _Anforderungskriterium-Score_ jedes\*jeder einzelnen Kandidat\*in eines bestimmenten Kriteriums. Der minimale Wert wird _OverallMin-Anforderungskriterium-Score_ genannt. (="Was ist die kleinste Bewertung in diesem Kriterium")
