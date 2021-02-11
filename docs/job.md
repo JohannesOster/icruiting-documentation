@@ -5,7 +5,7 @@
 `Administrator erforderlich`
 
 Unter https://icruiting.at/dashboard/jobs können Sie all Ihre Stellen einsehen, deren Anforderungsprofil bearbeiten, sie löschen oder neue Stellen hinzufügen.
-**_Achtung:_** Löschen Sie eine Stelle gehen alle, damit zusammenhängende Daten unwiderruflich verloren. (Das inkludiert alle Kandidat\*innen, die sich für diese Stelle beworben haben)
+**_Achtung:_** Löschen Sie eine Stelle gehen alle, damit zusammenhängende Daten unwiderruflich verloren. (Das inkludiert alle Bewerber\*innen, die sich für diese Stelle beworben haben)
 
 ## Stellendetailansicht
 
@@ -18,7 +18,7 @@ Die untern beiden Sektionen bilden Formulare. Einerseits das Bewerbungsformular 
 
 ## Formulare
 
-Bevor sich Kandidat\*innen für Ihre Stelle bewerben können müssen Sie ein Bewerbungsformular erstellen. Klicken Sie dazu in der Sketion "Formulare" in der Zeile "Bewerbung" auf "hinzufügen".
+Bevor sich Bewerber\*innen für Ihre Stelle bewerben können müssen Sie ein Bewerbungsformular erstellen. Klicken Sie dazu in der Sketion "Formulare" in der Zeile "Bewerbung" auf "hinzufügen".
 
 Im Formularbaukausten sehen sie nun auf der linken Seite das Formular, das Sie zusammenstellen und auf der rechten Seite die zur Verfügung stehenden Formularfelder (Section Header, Textfeld, Textarea, etc.). Unterhalb der rechten Drag&Drop Sektion sehen sie ein Feld "Form einbinden". Dieses wird benötigt um das erstellte Formular in Ihre Website einzubinden. Wiederum darunt finden Sie die Möglichkeit eine JSON Datei zu importieren, um ein bereits bestehendes Formular zu verwenden.
 
