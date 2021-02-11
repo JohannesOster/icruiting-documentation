@@ -55,7 +55,7 @@ Im folgenden werden wichtige Begriffe erläutert:
 **OverallMax-Formularkategorie-Score:** Man betrachte den _Formularkategorie-Score_ jedes\*jeder einzelnen Kandidat\*in. Der maximal Wert wird _OverallMax-Formularkategorie-Score_ genannt. (="Was ist die höchste Bewertung in dieser Kategorie")\
 **OverallMin-Formularkategorie-Score:** Man betrachte den _Formularkategorie-Score_ jedes\*jeder einzelnen Kandidat\*in. Der minimale Wert wird _OverallMin-Formularkategorie-Score_ genannt. (="Was ist die niedrigste Bewertung in dieser Kategorie")
 
-**PossibleMax-Formularkategorie-Score:** Der größtmögliche _Formularkategorie-Score_.\
+**PossibleMax-Formularkategorie-Score:** Der größtmögliche _Formularkategorie-Score_. Sollte für einen\*eine Bewerber\*in ein oder mehrere Formulare dieser Kategorie nicht ausgefüllt werden, liegt der mögliche Maximalwerte dennoch bei der Summe _aller_ _PossibleMax-Formular-Scores_.\
 **PossibleMin-Formularkategorie-Score:** Der kleinstmögliche _Formularkategorie-Score_.
 
 ##### Formular
