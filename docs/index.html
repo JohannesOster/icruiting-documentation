@@ -18,8 +18,16 @@
         loadSidebar: true,
         subMaxLevel: 2,
         homepage: "index.md",
+        search: {
+          paths: "auto",
+          placeholder: "Suche...",
+          noData: "Keine Ergebnisse",
+          depth: 6, // headline depth
+          hideOtherSidebarContent: false,
+        },
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   </body>
 </html>
