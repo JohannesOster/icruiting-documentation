@@ -3,3 +3,8 @@
 - Allgemein
 
   - [Startseite]()
+  - [Accounts](accounts.md)
+  - [Stelle](job.md)
+  - [Ranking](ranking.md)
+
+- [Wörterbuch](dictionary.md)
