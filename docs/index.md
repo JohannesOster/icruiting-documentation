@@ -4,24 +4,12 @@
 
 [johannes.oster@icruiting.at](mailto:johannes.oster@icruiting.at)
 
-## Übersicht
+## Das 3-stufige Auswahlverfahren
 
-## Das 2-stufige Auswahlverfahren
+icruiting bildet einen 3-stufiges Auswahlverfahren ab: Ein **Screening** gefolgt von einem **Assessment** sowie das finale **Onboarding**.
 
-icruiting bildet einen 2-stufiges Auswahlverfahren ab. Ein **Screening** gefolgt von einem **Assessment Center**.
+Im _Screening_ geht es darum die eingegangenen Bewerbungsunterlagen zu bewerten und die Bewerber\*innen anhand von den entstandenen Gutachen durchzusprechen.<br>
+Im _Assessment_ werden Bewerber\*innen in mehreren Übungen bewertet und ebenfalls in daraus resultierenden (von den Screening-Ergebnissen unabhängigen) Gutachten dargestellt.<br>
+Im _Onboarding_ stehen - wie beim Assessment mehrere Übungen zur Verfügung. Aus den Ergebnissen gehen wiederum von den vorherigen Schritten unabhängige Gutachten hervor.
 
-Im _Screening_ geht es darum die eingegangenen Bewerbungsunterlagen zu bewerten und die Bewerber\*innen in einer daraus resultierender Ranking durchzusprechen.
-
-Im _Assessment Center_ werden Bewerber\*innen in mehreren Übungen bewertet und ebenfalls in einer daraus resultierenden (von den Screening-Ergebnissen unabhängigen) Ranking dargestellt.
-
-Für beide Stufen wird für jeden\*jede Bewerber\*in ein Gutachten erstellt. Dieses soll die Bewertungsresultate aufbereiten und eine Basis für die eigentliche Auswahlentscheidung bilden.
-
-## Die Stelle
-
-Im Zentrum eines Auswahlverfahrens steht die **Stelle**. Sie repräsentiert eine offene Position in Ihrer Organisation. Jede Stelle hat ein eigenes **Anforderungsprofil**, eine Liste an Kriterien, welche von einem\*einer Bewerber\*in erfüllt werden sollen. Jedes dieser Kriterien wird durch ein Name identifierziert (z.B. Kreativität) und kann optional ein Mindestmaß tragen.
-
-Diesen Kriterien können später währende der Zusammenstellung eines _Assessment Center_ einzelne Fragen zugewiesen werden.
-
-## Formulare
-
-Mithilfe des Formularbaukasten können Sie für jede Stelle verschiedene Formulare zusammenstellen (Bewerbungsformular, Screening-Formular, Assessment Center-Formulare).
+Ein _Gutachen_ soll die Bewertungsresultate aufbereiten und eine Basis für die eigentliche Auswahlentscheidung bilden.

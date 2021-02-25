@@ -13,9 +13,9 @@
 Ein Formular ist eindeutig einer _Stelle_ zugeordnet und ist aus einer der folgenden drei Kategorien:\
 **Formularkategorie:** _Bewerbung_, _Screening_, _Assessment_
 
-**Bewerbungsformular:** Ein Formular über welches sich Bewerber\*innen für eine Stelle bewerben. Eine _Stelle_ hat genau ein _Bewerbungsformular_.\
-**Screeningformular:** Ein Formular über welches Bewertungen zu Bewerbungsunterlagen abgegeben werden. Eine _Stelle_ hat genau ein _Screeningformular_.\
-**Assessmentformular:** Ein Formular über welches Bewertungen zu Übungungen eines Assessment Centers abgegeben werden. Eine _Stelle_ hat ein oder mehere _Assessmentformulare_.
+**Bewerbungs-Formular:** Ein Formular über welches sich Bewerber\*innen für eine Stelle bewerben. Eine _Stelle_ hat genau ein _Bewerbungsformular_.\
+**Screening-Formular:** Ein Formular über welches Bewertungen zu Bewerbungsunterlagen abgegeben werden. Eine _Stelle_ hat genau ein _Screeningformular_.\
+**Assessment-Formular:** Ein Formular über welches Bewertungen zu Übungungen eines Assessments abgegeben werden. Eine _Stelle_ hat ein oder mehere _Assessmentformulare_.
 
 **Formularfeld:** Ein einzelnes Feld eines Formulars. **Achtung:** Nicht nur Eingabefelder sondern auch statische Felder wie zum Beispiel ein _Section Header_ werden als _Formularfeld_ bezeichnet.
 
