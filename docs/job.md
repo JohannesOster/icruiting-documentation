@@ -11,7 +11,7 @@ Mithilfe des Formularbaukasten können Sie für jede Stelle verschiedene Formula
 ## Übersicht
 
 Unter https://icruiting.at/dashboard/jobs können Sie all Ihre Stellen einsehen, deren Anforderungsprofil bearbeiten, sie löschen, als .json-Datei exportieren oder neue Stellen hinzufügen.
-**_Achtung:_** Löschen Sie eine Stelle gehen alle, damit zusammenhängende Daten unwiderruflich verloren. (Das inkludiert alle Bewerber\*innen, die sich für diese Stelle beworben haben)
+**Achtung:** Löschen Sie eine Stelle gehen alle, damit zusammenhängende Daten unwiderruflich verloren. (Das inkludiert alle Bewerber\*innen, die sich für diese Stelle beworben haben)
 
 ### Stelle Hinzufügen
 

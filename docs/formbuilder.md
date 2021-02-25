@@ -56,4 +56,4 @@ t.b.d
 Erstellen Sie ein Bewerbungs-Formular, so können sie ein bestehendes Formular hochladen. Im rechten Teil des Formularbaukastens sehen sie an unterster Stelle ".json Datei importieren". Klicken Sie auf den darunter liegenden Button und wählen sie eine .json Datei aus.
 
 Sie sollten nun auf der linken Seite des Formularbauksten das hochgeladene Formular sehen.\
-**_Achtung:_** Ihr bestehendes Formular wird dabei überschrieben.
+**Achtung:** Ihr bestehendes Formular wird dabei überschrieben.
