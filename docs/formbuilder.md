@@ -47,9 +47,13 @@ Anders als bei _Select_ oder _Radio_ Feldern könn bei einer _Checkbox_ mehrere 
 
 Mittels _Fileupload_ können Datein von einem gewissen Dateiformat (PDF oder JPEG) hochgeladen werden.
 
+## Rating
+
+Ein _Rating_ Formularfeld hat ein Label, eine Beschreibung, eine [Absicht](dictionary#formulare), optional einen Default Wert sowie mindestens zwei Optionen. Handelt es sich um ein _Assessment_- oder _Onboarding_-Formular so trägt das Formularfeld zustätzlich eine Referenz zu einem [Anforderungskriterium](dictionary#anforderungskriterien).
+
 # Formular einbinden
 
-t.b.d.
+Erstellen Sie ein Bewerbungsformular, so sehen sie auf der rechten Spalte im Formularbaukasten ein Feld mit dem Label "Formular einbinden". Klicken Sie auf diese Feld so wir html-Code in Ihre ablage kopiert. Fügen Sie diesen Code dor ein, wo ihr Bewerbungsformular erscheinen soll.
 
 # .json Datei importieren
 
