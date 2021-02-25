@@ -1,7 +1,7 @@
 # Accounts
 
 In icruiting wird zwischen zwei Rollen/Accounttypen unterschieden. Dem **Adminstrator** und dem **Mitglieder**.\
-Jede Organisation (im Registrierungsformular Tenant genannt) besitzt mindestens einen Administrator und kann mehrere Mitglieder umfassen.
+Jede Organisation (im Registrierungs-Formular Tenant genannt) besitzt mindestens einen Administrator und kann mehrere Mitglieder umfassen.
 
 ## Registrierung
 
