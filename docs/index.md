@@ -8,8 +8,8 @@
 
 icruiting bildet einen 3-stufiges Auswahlverfahren ab: Ein **Screening** gefolgt von einem **Assessment** sowie das finale **Onboarding**.
 
-Im _Screening_ geht es darum die eingegangenen Bewerbungsunterlagen zu bewerten und die Bewerber\*innen anhand von den entstandenen Gutachen durchzusprechen.<br>
-Im _Assessment_ werden Bewerber\*innen in mehreren Übungen bewertet und ebenfalls in daraus resultierenden (von den Screening-Ergebnissen unabhängigen) Gutachten dargestellt.<br>
+Im _Screening_ geht es darum die eingegangenen Bewerbungsunterlagen zu bewerten und die Bewerber\*innen anhand von den entstandenen Gutachen durchzusprechen.\
+Im _Assessment_ werden Bewerber\*innen in mehreren Übungen bewertet und ebenfalls in daraus resultierenden (von den Screening-Ergebnissen unabhängigen) Gutachten dargestellt.\
 Im _Onboarding_ stehen - wie beim Assessment mehrere Übungen zur Verfügung. Aus den Ergebnissen gehen wiederum von den vorherigen Schritten unabhängige Gutachten hervor.
 
 Ein _Gutachen_ soll die Bewertungsresultate aufbereiten und eine Basis für die eigentliche Auswahlentscheidung bilden.
